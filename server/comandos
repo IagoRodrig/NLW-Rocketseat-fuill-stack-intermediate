@@ -1,0 +1,9 @@
+npx drizzle-kit generate
+npx drizzle-kit migrate
+npx drizzle-kit studio
+
+### Rotas
+cadastrar metas
+marcar meta concluida
+retorna dados da semana
+metas não cumpridas
